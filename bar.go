@@ -1,4 +1,4 @@
-package bar 
+package foo
 
 func Bar() {
 	bar()
